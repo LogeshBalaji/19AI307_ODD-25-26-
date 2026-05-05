@@ -38,8 +38,8 @@ To write a Java program using an abstract class GameScore with subclasses Arcade
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Aadithya R
-RegisterNumber: 212223240001
+Developed by: LOGESH B
+RegisterNumber: 212224110034
 */
 ```
 

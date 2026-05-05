@@ -24,8 +24,8 @@ To write a Java program using inheritance to calculate the final gold price for 
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Aadithya R
-RegisterNumber: 212223240001
+Developed by: LOGESH B
+RegisterNumber: 212224110034
 */
 ```
 
